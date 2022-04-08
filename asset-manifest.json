@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ruslan-lew-soset-huy/static/css/main.7acaea2f.css",
+    "main.js": "/ruslan-lew-soset-huy/static/js/main.90aba614.js",
+    "static/js/787.eae4bfd0.chunk.js": "/ruslan-lew-soset-huy/static/js/787.eae4bfd0.chunk.js",
+    "index.html": "/ruslan-lew-soset-huy/index.html",
+    "main.7acaea2f.css.map": "/ruslan-lew-soset-huy/static/css/main.7acaea2f.css.map",
+    "main.90aba614.js.map": "/ruslan-lew-soset-huy/static/js/main.90aba614.js.map",
+    "787.eae4bfd0.chunk.js.map": "/ruslan-lew-soset-huy/static/js/787.eae4bfd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.90aba614.js"
+  ]
+}
